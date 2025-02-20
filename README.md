@@ -28,16 +28,16 @@ submission_reminder_{YourName}/
    bash create_environment.sh
    ```
 3. Start the Reminder Application
-   ```
+   
    After the environment is set up, navigate to your directory and run:
    ```
    cd submission_reminder_{YourName}
    bash startup.sh
    ```
    License
-   ```
+   
    This project is open-source and available for everyone to modify it.
-   ```
+   
    Author
    
    Developed by **Ketsia**
